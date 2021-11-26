@@ -1,10 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import urllib.request
-import schedule
 import time
-import os
-import random
 
 def get_image():
     
